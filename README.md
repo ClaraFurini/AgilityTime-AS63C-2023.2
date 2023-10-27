@@ -1,6 +1,6 @@
 # AgilityTime-AS63C-2023.2
 # Sistema de Gerenciamento de Horas Extracurriculares
-![Logotipo](https://looka.com/s/155878577)
+![Logotipo](https://thumbs.dreamstime.com/b/%C3%ADcone-r%C3%A1pido-logo-design-element-do-tempo-da-velocidade-97568493.jpg)
 Bem-vindo ao Sistema de Gerenciamento de Horas Extracurriculares! Este software é projetado para ajudar instituições educacionais a acompanhar e gerenciar as horas extracurriculares dos alunos de forma eficiente.
 
 ## Funcionalidades Principais
